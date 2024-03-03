@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Kowsalya M </h3>
-<h3>Register Number : 212222230069</h3>
+<h3>Name: Thiyagarajan A </h3>
+<h3>Register Number : 212222240110</h3>
 
 <h3>AIM:</h3>
 <br>
